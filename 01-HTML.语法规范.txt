@@ -1,0 +1,7 @@
+<html></html>（根标签）
+<head></head>（文档头部）
+<title></title>（标题）
+<body></body>（内容）
+		
+	
+
